@@ -6,8 +6,8 @@ import tempfile
 import os
 import pdb
 
-import Image
-import ImageDraw
+from PIL import Image
+from PIL import ImageDraw
 import cairo
 import rsvg
 import argparse

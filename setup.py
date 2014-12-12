@@ -10,7 +10,7 @@ setup(
     scripts = ["fen.py"],
     py_modules = ["images"],
     description = "Generate chessboard images from fen descriptions",
-    install_requires = ["argparse"],
+    install_requires = ["argparse", "pillow"],
     long_description = """\
 Chessboard Image Generator
 -------------------------------------
