@@ -1,0 +1,19 @@
+Metadata-Version: 1.0
+Name: fen
+Version: 0.1.8
+Summary: Generate chessboard images from fen descriptions
+Home-page: http://pypi.python.org/pypi/fen
+Author: Patrick Sabin
+Author-email: patricksabin@gmx.at
+License: UNKNOWN
+Description: Chessboard Image Generator
+        -------------------------------------
+        This tool takes a fen string and generates a fen image.
+        
+        This version requires Python 2.
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Development Status :: 2 - Pre-Alpha
