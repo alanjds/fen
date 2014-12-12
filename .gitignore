@@ -1,0 +1,24 @@
+.coverage
+.noseids
+*.so
+*.pyc
+*.pyo
+*.py#
+*~
+*.swp
+*.DS_Store
+*.kpf
+build/*
+doc/build
+doc/sources/api-*.rst
+.last_known_portable_deps_hash
+.idea
+dist
+
+# PyDev
+.project
+.pydevproject
+
+# Virtualenv
+venv
+
